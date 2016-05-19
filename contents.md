@@ -1,6 +1,6 @@
 ##### [List of all exercises](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-37.html#%_chap_Temp_850)  
 # solution contents
-###### _exercise_ | _source code_
+###### _exercise_ | _solution_
 ### Chapter 1
  * [1.1](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_thm_1.1) | [src](./1/1.1.rkt)
  * [1.2](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_thm_1.2) | [src](./1/1.2.rkt)
