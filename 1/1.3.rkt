@@ -3,6 +3,7 @@
       (+ (* a a) (if (> b c) (* b b) (* c c)))
       (+ (* b b) (if (> a c) (* a a) (* c c)))))
 
+; test
 (if (not (= (f 1 2 3) 13)) "ARGS: 1 2 3")
 (if (not (= (f 3 2 1) 13)) "ARGS: 3 2 1")
 (if (not (= (f 1 3 2) 13)) "ARGS: 1 3 2")
